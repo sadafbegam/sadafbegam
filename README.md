@@ -66,16 +66,6 @@ const sadaf = {
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 🛠️ Tech Arsenal
