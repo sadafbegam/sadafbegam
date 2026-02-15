@@ -89,15 +89,6 @@ const sadaf = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadafbegam&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadafbegam&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafbegam&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
