@@ -80,17 +80,6 @@ Currently based in **Bangalore** 🌆, I'm on an exciting journey through the wo
 
 ---
 
-## 📈 Coding Journey
-
-```text
-Problem Solving    ████████████████░░░░  80%
-Web Development    ███████████████░░░░░  75%
-Backend Skills     ██████████░░░░░░░░░░  50%
-Database Design    ████████████░░░░░░░░  60%
-```
-
----
-
 ## 🌱 Learning Path
 
 **Current Focus Areas:**
