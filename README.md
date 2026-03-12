@@ -6,12 +6,7 @@
 - 📫 How to reach me **tshaiksadafbegum@gamil.com**
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sadafbegam
-
-
-
-
-&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sadafbegam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sadafbegam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafbegam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
