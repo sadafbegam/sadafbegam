@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadaf Begam</h1>
 <h3 align="center">A passionate Software Enginner from India</h3>
 
-
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA,PYTHON**
 - 📫 How to reach me **tshaiksadafbegum@gamil.com**
 ---
@@ -13,8 +12,6 @@
 # 🌟 Sadaf Begam
 
 ### Software Engineer | Problem Solver | Tech Enthusiast
-
-
 
 ```ascii
 ┌─────────────────────────────────────────────────────────┐
