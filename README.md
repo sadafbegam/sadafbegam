@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,JAVA,PYTHON**
 - 📫 How to reach me **tshaiksadafbegum@gamil.com**
 ---
-[![](https://visitcount.itsvg.in/api?id=sadafbegam&icon=0&color=0)](https://visitcount.itsvg.in)   
+[![](https://visitcount.itsvg.in/api?id=sadafbegam&icon=0&color=0)]
+
+(https://visitcount.itsvg.in)   
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
