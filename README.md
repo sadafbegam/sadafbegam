@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi 👋, I'm Sadaf Begam
@@ -116,9 +117,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sadafbegam\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafbegam\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadafbegam&theme=tokyonight)
 
 </div>
 
