@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # Hi 👋, I'm Sadaf Begam
